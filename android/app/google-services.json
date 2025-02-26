@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "10704285338",
+    "project_id": "rajumarwadi-d079b",
+    "storage_bucket": "rajumarwadi-d079b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10704285338:android:c328d241eaedc675cf7923",
+        "android_client_info": {
+          "package_name": "com.rajumarwari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10704285338-7poren64002ta4il3lkrvtpdklde64uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Wn_G2VU3YZ4bE5bijZdsJzwacIvSngk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10704285338-7poren64002ta4il3lkrvtpdklde64uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10704285338:android:1b8db1a2200ee685cf7923",
+        "android_client_info": {
+          "package_name": "com.stephub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10704285338-7poren64002ta4il3lkrvtpdklde64uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Wn_G2VU3YZ4bE5bijZdsJzwacIvSngk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10704285338-7poren64002ta4il3lkrvtpdklde64uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

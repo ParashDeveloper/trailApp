@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="location_permission_reason">This app requires location access to display your position on the map.</string>
+</resources>

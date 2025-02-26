@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803540087860",
+    "project_id": "raju-marwari-8a244",
+    "storage_bucket": "raju-marwari-8a244.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803540087860:android:94551cd49e2c3e13dc4661",
+        "android_client_info": {
+          "package_name": "com.rajumarwari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcbsA-FVTzEh6DKJ0pZZST3fUHvooYVuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
