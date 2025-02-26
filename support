@@ -1,0 +1,20 @@
+#52A924
+#CBE5BD
+
+
+in banners add offer_hi
+
+
+
+
+             <TouchableOpacity
+                style={tw`mx-4 mb-2 bg-[#52A924] rounded-lg py-2 flex-row items-center justify-center`}
+                onPress={() => navigation.navigate('Address')}
+            >
+                <Text style={tw`text-white text-lg font-medium`}>Add Full Address</Text>
+            </TouchableOpacity>
+
+
+
+
+
